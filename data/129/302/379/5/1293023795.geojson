@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"70.41321,28.33247,70.41321,28.33247",
-    "geom:latitude":28.33247,
-    "geom:longitude":70.41321,
+    "geom:bbox": "70.411203,28.330457,70.411203,28.330457"
+    "geom:latitude" :28.330457,
+    "geom:longitude":70.411203,
     "gn:admin1_code":"4.0",
     "gn:asciiname":"Chak 55p Rahimyar khan",
     "gn:country_code":"PK",
@@ -16,14 +16,14 @@
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
     "gn:geonameid": "7634895",
-    "gn:latitude":28.33247,
-    "gn:longitude":70.41321,
+    "gn:latitude":28.330457,
+    "gn:longitude":70.411203,
     "gn:modification_date":"2012-01-21",
     "gn:name":"Chak 55p Rahimyar khan",
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
-    "lbl:bbox":"70.39321,28.31247,70.43321,28.35247",
+    "lbl:bbox":" 70.391203,28.310457,70.431203,28.350457"
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -56,7 +56,7 @@
     ],
     "wof:id":1293023795,
     "wof:lastmodified":1566585934,
-    "wof:name":"Chak Fifty-seven",
+    "wof:name":"Chak 55p Rahimyar khan",
     "wof:parent_id":1108692357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
@@ -65,10 +65,15 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.41320999999998,
-    28.33247,
-    70.41320999999998,
-    28.33247
-],
-  "geometry": {"coordinates":[70.41320999999998,28.33247],"type":"Point"}
+  70.411203,
+  28.330457,
+  70.411203,
+  28.330457
+]
+  ""geometry": {
+  "coordinates": [
+    70.411203,
+    28.330457
+  ],
+  "type": "Point"
 }
