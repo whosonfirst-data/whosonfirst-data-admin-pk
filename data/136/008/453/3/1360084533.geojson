@@ -52,7 +52,7 @@
         "wk:page":"Chechian"
     },
     "wof:country":"PK",
-    "wof:geomhash":"b8f87178fce180a5d185b809ff33afbb",
+    "wof:geomhash":"82ae0a7268bc678168333a5a1f2b33ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     74.12073000000002,
     32.67011
 ],
-  "geometry": {"coordinates":[74.12073000000002,32.67011],"type":"Point"}
+  "geometry": {"coordinates":[74.12073,32.67011],"type":"Point"}
 }

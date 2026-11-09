@@ -270,7 +270,7 @@
         "wk:page":"Mohenjo-daro"
     },
     "wof:country":"PK",
-    "wof:geomhash":"a24ed5433f04d025b6df977f90b50f7a",
+    "wof:geomhash":"9e2af1e4066f85a4a5c10360afb7b12b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -296,5 +296,5 @@
     68.13698000000001,
     27.32207
 ],
-  "geometry": {"coordinates":[68.13698000000001,27.32207],"type":"Point"}
+  "geometry": {"coordinates":[68.13698,27.32207],"type":"Point"}
 }

@@ -49,7 +49,7 @@
         "wk:page":"Chaintri"
     },
     "wof:country":"PK",
-    "wof:geomhash":"9ad26431c149d16b5352f4f33af59c8a",
+    "wof:geomhash":"df1113334968aa9f6fcf166831150eb3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     72.95338000000002,
     34.21064000000001
 ],
-  "geometry": {"coordinates":[72.95338000000002,34.21064000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.95338,34.21064],"type":"Point"}
 }

@@ -59,7 +59,7 @@
         "wk:page":"Piplan"
     },
     "wof:country":"PK",
-    "wof:geomhash":"3a9acca22140376490148bb54460a79a",
+    "wof:geomhash":"7146a6b14584f8ed54345032e6a44ccc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     71.36674000000002,
     32.28805
 ],
-  "geometry": {"coordinates":[71.36674000000002,32.28805],"type":"Point"}
+  "geometry": {"coordinates":[71.36674,32.28805],"type":"Point"}
 }

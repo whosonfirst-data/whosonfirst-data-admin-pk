@@ -52,7 +52,7 @@
         "wk:page":"Bakrani"
     },
     "wof:country":"PK",
-    "wof:geomhash":"29206aca59c7caf0c1531897cc657446",
+    "wof:geomhash":"29da2ed7c7f1271a5e7066b9d393cb1a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     68.1859,
     27.44672000000001
 ],
-  "geometry": {"coordinates":[68.1859,27.44672000000001],"type":"Point"}
+  "geometry": {"coordinates":[68.1859,27.44672],"type":"Point"}
 }

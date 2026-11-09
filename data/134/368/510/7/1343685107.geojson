@@ -54,7 +54,7 @@
         "wk:page":"Malka_Hans%2C_Punjab"
     },
     "wof:country":"PK",
-    "wof:geomhash":"a7e09a57e3ac738ad5ff6e03de319f2f",
+    "wof:geomhash":"abd81cf250c47c69602b1144f650e87c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     73.27528000000002,
     30.42426
 ],
-  "geometry": {"coordinates":[73.27528000000002,30.42426],"type":"Point"}
+  "geometry": {"coordinates":[73.27528,30.42426],"type":"Point"}
 }

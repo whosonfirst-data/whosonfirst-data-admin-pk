@@ -52,7 +52,7 @@
         "wk:page":"Daraban"
     },
     "wof:country":"PK",
-    "wof:geomhash":"ef344f6410b133302de721bf7704ceb8",
+    "wof:geomhash":"eb32d1b75b4512d75f955173d3586cbe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     70.3372,
     31.73247000000001
 ],
-  "geometry": {"coordinates":[70.3372,31.73247000000001],"type":"Point"}
+  "geometry": {"coordinates":[70.3372,31.73247],"type":"Point"}
 }

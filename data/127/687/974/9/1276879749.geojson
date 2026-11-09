@@ -48,7 +48,7 @@
         "wk:page":"Ghora_Dhaka"
     },
     "wof:country":"PK",
-    "wof:geomhash":"5e966091d37e9ea54f99cf11f0fb843a",
+    "wof:geomhash":"66de5196e66634c2cd877b4d19c87576",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     73.40959000000002,
     34.0283
 ],
-  "geometry": {"coordinates":[73.40959000000002,34.0283],"type":"Point"}
+  "geometry": {"coordinates":[73.40959,34.0283],"type":"Point"}
 }

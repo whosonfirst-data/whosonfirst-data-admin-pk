@@ -47,7 +47,7 @@
         "wk:page":"Behali"
     },
     "wof:country":"PK",
-    "wof:geomhash":"d57a5bbe0c0f355de68c3d85286660a2",
+    "wof:geomhash":"4e64ea6ae0c1d65909634cdc07ed215b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     73.16573000000002,
     34.25401
 ],
-  "geometry": {"coordinates":[73.16573000000002,34.25401],"type":"Point"}
+  "geometry": {"coordinates":[73.16573,34.25401],"type":"Point"}
 }

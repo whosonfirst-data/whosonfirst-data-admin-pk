@@ -49,7 +49,7 @@
         "wk:page":"Rajana"
     },
     "wof:country":"PK",
-    "wof:geomhash":"466f8b1eb85475b1652601f3e9345b4d",
+    "wof:geomhash":"fa53b63ff73cdee8d6e240d32f97ea75",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     72.15398,
     31.42204000000001
 ],
-  "geometry": {"coordinates":[72.15398,31.42204000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.15398,31.42204],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "wk:page":"Sesar"
     },
     "wof:country":"PK",
-    "wof:geomhash":"3fc27bcbb616b842821eb534ad3d4519",
+    "wof:geomhash":"47faa17bb900973c194e9bbdde812056",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     73.57018000000002,
     33.99753
 ],
-  "geometry": {"coordinates":[73.57018000000002,33.99753],"type":"Point"}
+  "geometry": {"coordinates":[73.57018,33.99753],"type":"Point"}
 }

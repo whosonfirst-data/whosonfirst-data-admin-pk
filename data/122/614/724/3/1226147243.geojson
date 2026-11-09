@@ -50,7 +50,7 @@
         "wk:page":"Haleji_Sharif"
     },
     "wof:country":"PK",
-    "wof:geomhash":"32de8cc71040b30459d7e79d795595b2",
+    "wof:geomhash":"fb598f730e17ece9af87b95c74239ccd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     69.13568000000001,
     27.78047
 ],
-  "geometry": {"coordinates":[69.13568000000001,27.78047],"type":"Point"}
+  "geometry": {"coordinates":[69.13568,27.78047],"type":"Point"}
 }

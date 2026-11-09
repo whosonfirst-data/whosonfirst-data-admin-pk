@@ -42,7 +42,7 @@
         "wk:page":"Nathot"
     },
     "wof:country":"PK",
-    "wof:geomhash":"ccc3ac695ff0ea00b37e0d576fd631fd",
+    "wof:geomhash":"47036ec681d6141c2b883c5cccbbf902",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     73.20938000000002,
     32.85106
 ],
-  "geometry": {"coordinates":[73.20938000000002,32.85106],"type":"Point"}
+  "geometry": {"coordinates":[73.20938,32.85106],"type":"Point"}
 }

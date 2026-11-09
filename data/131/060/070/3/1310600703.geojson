@@ -47,7 +47,7 @@
         "wk:page":"Sarsal"
     },
     "wof:country":"PK",
-    "wof:geomhash":"627305cf06175b7f97efb677f91f8f0a",
+    "wof:geomhash":"f2ac001025d0268c3663bca12946f802",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     74.09423000000002,
     32.87877
 ],
-  "geometry": {"coordinates":[74.09423000000002,32.87877],"type":"Point"}
+  "geometry": {"coordinates":[74.09423,32.87877],"type":"Point"}
 }

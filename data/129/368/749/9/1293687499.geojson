@@ -48,7 +48,7 @@
         "wk:page":"Begu_Khel"
     },
     "wof:country":"PK",
-    "wof:geomhash":"65ada1425cb1d434625c2cecfac2593d",
+    "wof:geomhash":"4d8e21317217764fc4fe51d731ca0934",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     70.95853000000002,
     32.52987
 ],
-  "geometry": {"coordinates":[70.95853000000002,32.52987],"type":"Point"}
+  "geometry": {"coordinates":[70.95853,32.52987],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Badrashi"
     },
     "wof:country":"PK",
-    "wof:geomhash":"5be7b0e41e4c0046988ec6b8e20c0756",
+    "wof:geomhash":"7d4968c732230ca29d151b94b739fe1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     72.00858000000002,
     33.99105
 ],
-  "geometry": {"coordinates":[72.00858000000002,33.99105],"type":"Point"}
+  "geometry": {"coordinates":[72.00858,33.99105],"type":"Point"}
 }

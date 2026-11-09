@@ -42,7 +42,7 @@
         "wk:page":"Mianki_Banda"
     },
     "wof:country":"PK",
-    "wof:geomhash":"c1bc1b5c50b8d112a270ca169912e04d",
+    "wof:geomhash":"326ec0a58ba438b99bb42015b01721b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     71.02304000000002,
     32.94634
 ],
-  "geometry": {"coordinates":[71.02304000000002,32.94634],"type":"Point"}
+  "geometry": {"coordinates":[71.02304,32.94634],"type":"Point"}
 }

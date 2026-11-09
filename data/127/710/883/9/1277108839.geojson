@@ -49,7 +49,7 @@
         "wk:page":"Firoza"
     },
     "wof:country":"PK",
-    "wof:geomhash":"8fd0793a0e8c51df125d38be27accc02",
+    "wof:geomhash":"a402736f6bd62ecfb3bfe25c7302a41c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     70.81584000000002,
     28.76684
 ],
-  "geometry": {"coordinates":[70.81584000000002,28.76684],"type":"Point"}
+  "geometry": {"coordinates":[70.81584,28.76684],"type":"Point"}
 }

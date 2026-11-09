@@ -52,7 +52,7 @@
         "wk:page":"Ahli_Kamboh"
     },
     "wof:country":"PK",
-    "wof:geomhash":"193050cc0fc74d9758850d7a4b963171",
+    "wof:geomhash":"5a06e44b85147561f8cbe2afd3ee141b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     72.27098000000002,
     31.85374
 ],
-  "geometry": {"coordinates":[72.27098000000002,31.85374],"type":"Point"}
+  "geometry": {"coordinates":[72.27098,31.85374],"type":"Point"}
 }

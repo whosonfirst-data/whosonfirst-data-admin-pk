@@ -54,7 +54,7 @@
         "wk:page":"Padshahan"
     },
     "wof:country":"PK",
-    "wof:geomhash":"7748212f1248a3854275027fb8a2aba0",
+    "wof:geomhash":"91d5a445c7f7883b6d98c67adb8a0e0c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     73.04063000000002,
     33.00934
 ],
-  "geometry": {"coordinates":[73.04063000000002,33.00934],"type":"Point"}
+  "geometry": {"coordinates":[73.04063,33.00934],"type":"Point"}
 }

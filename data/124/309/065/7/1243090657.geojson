@@ -48,7 +48,7 @@
         "wk:page":"Haranpur"
     },
     "wof:country":"PK",
-    "wof:geomhash":"abd2b0b1261538c7d7d3af298195633d",
+    "wof:geomhash":"6dd1186b3efabec6c1fee64fc396d5dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     73.15493000000002,
     32.60861
 ],
-  "geometry": {"coordinates":[73.15493000000002,32.60861],"type":"Point"}
+  "geometry": {"coordinates":[73.15493,32.60861],"type":"Point"}
 }

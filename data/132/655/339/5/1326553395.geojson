@@ -42,7 +42,7 @@
         "wk:page":"Bunga_Hayat"
     },
     "wof:country":"PK",
-    "wof:geomhash":"6421a5211b96a8d35ec18be04b8dc4dd",
+    "wof:geomhash":"6a001b8280751f7626ef412d9a88f376",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     73.52004000000002,
     30.49608
 ],
-  "geometry": {"coordinates":[73.52004000000002,30.49608],"type":"Point"}
+  "geometry": {"coordinates":[73.52004,30.49608],"type":"Point"}
 }

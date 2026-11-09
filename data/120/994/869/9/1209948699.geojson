@@ -52,7 +52,7 @@
         "wk:page":"Fateh_Bhand"
     },
     "wof:country":"PK",
-    "wof:geomhash":"fef53e10c2d7388b98531076e1b0e8b9",
+    "wof:geomhash":"cc7d5ea27921baceb6326ac29c425456",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     73.71963000000002,
     32.70381
 ],
-  "geometry": {"coordinates":[73.71963000000002,32.70381],"type":"Point"}
+  "geometry": {"coordinates":[73.71963,32.70381],"type":"Point"}
 }

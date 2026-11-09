@@ -48,7 +48,7 @@
         "wk:page":"Khai_Khurd"
     },
     "wof:country":"PK",
-    "wof:geomhash":"64a5a51d256ffd314c508a826bb9e831",
+    "wof:geomhash":"72fe04d09ab8f47768480ed287417a1e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     72.21908,
     31.82322000000001
 ],
-  "geometry": {"coordinates":[72.21908000000001,31.82322000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.21908,31.82322],"type":"Point"}
 }

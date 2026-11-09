@@ -45,7 +45,7 @@
         "wk:page":"Kalyana"
     },
     "wof:country":"PK",
-    "wof:geomhash":"7eb7f45789f4492969adc786d4533b89",
+    "wof:geomhash":"dce9a1b3fa73b106a9e55cb6b1a6df7e",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -68,5 +68,5 @@
     73.22809000000002,
     30.25915
 ],
-  "geometry": {"coordinates":[73.22809000000002,30.25915],"type":"Point"}
+  "geometry": {"coordinates":[73.22809,30.25915],"type":"Point"}
 }

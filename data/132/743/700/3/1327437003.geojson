@@ -49,7 +49,7 @@
         "wk:page":"Moinabad"
     },
     "wof:country":"PK",
-    "wof:geomhash":"fdfae0ce7532bcf59caae9e36d330390",
+    "wof:geomhash":"5e625aa81970fccfd45bf2472562f51e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     70.73234000000002,
     28.73403
 ],
-  "geometry": {"coordinates":[70.73234000000002,28.73403],"type":"Point"}
+  "geometry": {"coordinates":[70.73234,28.73403],"type":"Point"}
 }

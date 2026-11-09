@@ -51,7 +51,7 @@
         "wk:page":"Sohianwala"
     },
     "wof:country":"PK",
-    "wof:geomhash":"474aa11d6c8286be21c120066aed7feb",
+    "wof:geomhash":"b3f8b388e45a74cfad2588f16c4a2923",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -74,5 +74,5 @@
     70.85694000000002,
     30.94881
 ],
-  "geometry": {"coordinates":[70.85694000000002,30.94881],"type":"Point"}
+  "geometry": {"coordinates":[70.85694,30.94881],"type":"Point"}
 }

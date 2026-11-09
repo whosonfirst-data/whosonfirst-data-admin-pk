@@ -46,7 +46,7 @@
         "wk:page":"Dobandi"
     },
     "wof:country":"PK",
-    "wof:geomhash":"96b572968315ed5d7f112bf525c5c6a5",
+    "wof:geomhash":"07a6fb36e08c879b138d004032ee6d08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     72.93928000000002,
     34.03737
 ],
-  "geometry": {"coordinates":[72.93928000000002,34.03737],"type":"Point"}
+  "geometry": {"coordinates":[72.93928,34.03737],"type":"Point"}
 }

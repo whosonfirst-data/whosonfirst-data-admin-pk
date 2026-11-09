@@ -47,7 +47,7 @@
         "wk:page":"Serai_Niamat_Khan"
     },
     "wof:country":"PK",
-    "wof:geomhash":"2b0a445b61e04e44b5c57d7ddef8184f",
+    "wof:geomhash":"48186e3f87c6b379e2a847af09bc7767",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     73.03648000000003,
     34.08342
 ],
-  "geometry": {"coordinates":[73.03648000000003,34.08342],"type":"Point"}
+  "geometry": {"coordinates":[73.03648,34.08342],"type":"Point"}
 }

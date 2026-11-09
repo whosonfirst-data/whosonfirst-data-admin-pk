@@ -48,7 +48,7 @@
         "wk:page":"Bewal"
     },
     "wof:country":"PK",
-    "wof:geomhash":"c21d3243ef5b3c55771aa2a208ddba4b",
+    "wof:geomhash":"fc1679c890064f6514d66fced33085ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     73.44830999999998,
     33.33779000000001
 ],
-  "geometry": {"coordinates":[73.44830999999998,33.33779000000001],"type":"Point"}
+  "geometry": {"coordinates":[73.44831,33.33779],"type":"Point"}
 }

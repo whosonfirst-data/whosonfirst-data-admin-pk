@@ -65,7 +65,7 @@
         "wk:page":"Bagh%2C_Azad_Kashmir"
     },
     "wof:country":"PK",
-    "wof:geomhash":"4e44b210c0bbebfdf0968a4b08f81e2d",
+    "wof:geomhash":"9ee4bb8f910071bb06537a316cb74b6c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,5 +100,5 @@
     73.77608000000002,
     33.98111
 ],
-  "geometry": {"coordinates":[73.77608000000002,33.98111],"type":"Point"}
+  "geometry": {"coordinates":[73.77608,33.98111],"type":"Point"}
 }

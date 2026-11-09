@@ -52,7 +52,7 @@
         "wk:page":"Kahi"
     },
     "wof:country":"PK",
-    "wof:geomhash":"eb4be35b4bd37c9982db39e2d16c4d65",
+    "wof:geomhash":"aa4c063c6b512580bc6c372f4a2174f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     70.86119000000002,
     33.47524
 ],
-  "geometry": {"coordinates":[70.86119000000002,33.47524],"type":"Point"}
+  "geometry": {"coordinates":[70.86119,33.47524],"type":"Point"}
 }

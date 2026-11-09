@@ -52,7 +52,7 @@
         "wk:page":"Bazidpur"
     },
     "wof:country":"PK",
-    "wof:geomhash":"fcc77a1fc4bee33de483d5f9665cd3f2",
+    "wof:geomhash":"8cde21d57bd4350f6e87d761b642e19d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     74.46994000000002,
     31.01475
 ],
-  "geometry": {"coordinates":[74.46994000000002,31.01475],"type":"Point"}
+  "geometry": {"coordinates":[74.46994,31.01475],"type":"Point"}
 }

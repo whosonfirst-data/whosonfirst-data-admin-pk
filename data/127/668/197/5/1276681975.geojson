@@ -53,7 +53,7 @@
         "wk:page":"Sauwal"
     },
     "wof:country":"PK",
-    "wof:geomhash":"41c6b9cf2508edd9524d821b214314cb",
+    "wof:geomhash":"882a999950701c8f4d0cd6270710a2ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     73.15784000000002,
     32.66872
 ],
-  "geometry": {"coordinates":[73.15784000000002,32.66872],"type":"Point"}
+  "geometry": {"coordinates":[73.15784,32.66872],"type":"Point"}
 }

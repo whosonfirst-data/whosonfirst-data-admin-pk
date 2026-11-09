@@ -57,7 +57,7 @@
         "wk:page":"Riwat"
     },
     "wof:country":"PK",
-    "wof:geomhash":"ecaef5ac500fd2da1b264ce6b423e10b",
+    "wof:geomhash":"1ac84566e56d715622d1cadaf9d34d7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     73.19384000000002,
     33.4972
 ],
-  "geometry": {"coordinates":[73.19384000000002,33.4972],"type":"Point"}
+  "geometry": {"coordinates":[73.19384,33.4972],"type":"Point"}
 }

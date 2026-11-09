@@ -52,7 +52,7 @@
         "wk:page":"Sehjra"
     },
     "wof:country":"PK",
-    "wof:geomhash":"2c9d7756efd1d6fd6ff2100f7b24747b",
+    "wof:geomhash":"a498444d4c21d5d6b1b7ff2e47a84c79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     74.62149000000002,
     31.11677
 ],
-  "geometry": {"coordinates":[74.62149000000002,31.11677],"type":"Point"}
+  "geometry": {"coordinates":[74.62149,31.11677],"type":"Point"}
 }

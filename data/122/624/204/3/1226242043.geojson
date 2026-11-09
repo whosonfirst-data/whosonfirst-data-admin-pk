@@ -52,7 +52,7 @@
         "wk:page":"Lalke"
     },
     "wof:country":"PK",
-    "wof:geomhash":"c8609db93ff0e521f6f5ad8f55315cc3",
+    "wof:geomhash":"95ee9a3170889436dd6d287f18c927b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     73.83800000000002,
     31.81234000000001
 ],
-  "geometry": {"coordinates":[73.83800000000002,31.81234000000001],"type":"Point"}
+  "geometry": {"coordinates":[73.838,31.81234],"type":"Point"}
 }

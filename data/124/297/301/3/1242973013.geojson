@@ -45,7 +45,7 @@
         "wk:page":"Nokjo"
     },
     "wof:country":"PK",
-    "wof:geomhash":"b00f5ae1b6f9a443059538fff6c7169f",
+    "wof:geomhash":"13e4e49de15ea2a9234f0e6e8f4958e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     66.22209000000001,
     28.38678
 ],
-  "geometry": {"coordinates":[66.22209000000001,28.38678],"type":"Point"}
+  "geometry": {"coordinates":[66.22209,28.38678],"type":"Point"}
 }

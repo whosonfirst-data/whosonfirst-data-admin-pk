@@ -47,7 +47,7 @@
         "wk:page":"Dadloi"
     },
     "wof:country":"PK",
-    "wof:geomhash":"f7edfcfe2304579ef102cea19ccdad1e",
+    "wof:geomhash":"a1ede79e6822726ba4706b9dd4a1158f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     69.17163000000001,
     27.91119
 ],
-  "geometry": {"coordinates":[69.17163000000001,27.91119],"type":"Point"}
+  "geometry": {"coordinates":[69.17163,27.91119],"type":"Point"}
 }

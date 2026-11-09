@@ -45,7 +45,7 @@
         "wk:page":"Yaqubi"
     },
     "wof:country":"PK",
-    "wof:geomhash":"cbcd203c1099ef7e9ead1867cea15430",
+    "wof:geomhash":"43a44d00cb4bd71e56324bce6b804495",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     72.26789000000002,
     34.15719
 ],
-  "geometry": {"coordinates":[72.26789000000002,34.15719],"type":"Point"}
+  "geometry": {"coordinates":[72.26789,34.15719],"type":"Point"}
 }

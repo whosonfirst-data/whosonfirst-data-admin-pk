@@ -46,7 +46,7 @@
         "wk:page":"Qazipur"
     },
     "wof:country":"PK",
-    "wof:geomhash":"286be4da3e5a5ca2cf4b9d9a2874b3b1",
+    "wof:geomhash":"c78dcddacb7ad290cbbf3dd43b0b6f28",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     72.60309000000002,
     33.99189000000001
 ],
-  "geometry": {"coordinates":[72.60309000000002,33.99189000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.60309,33.99189],"type":"Point"}
 }

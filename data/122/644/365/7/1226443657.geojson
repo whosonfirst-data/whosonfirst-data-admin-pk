@@ -42,7 +42,7 @@
         "wk:page":"Damghar"
     },
     "wof:country":"PK",
-    "wof:geomhash":"5331a0a3fbad40422d2859cd16a28403",
+    "wof:geomhash":"a5de07ee31b769b5273083e2f39a95ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     72.35708000000002,
     34.80153
 ],
-  "geometry": {"coordinates":[72.35708000000002,34.80153],"type":"Point"}
+  "geometry": {"coordinates":[72.35708,34.80153],"type":"Point"}
 }

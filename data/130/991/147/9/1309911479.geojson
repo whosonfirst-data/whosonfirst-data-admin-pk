@@ -123,7 +123,7 @@
         "wk:page":"Attock"
     },
     "wof:country":"PK",
-    "wof:geomhash":"269022ffb66d16c69b93b898337485c0",
+    "wof:geomhash":"e615ba32f26b50468fe0a02b1f45f522",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,5 +149,5 @@
     72.30729000000002,
     33.90554
 ],
-  "geometry": {"coordinates":[72.30729000000002,33.90554],"type":"Point"}
+  "geometry": {"coordinates":[72.30729,33.90554],"type":"Point"}
 }

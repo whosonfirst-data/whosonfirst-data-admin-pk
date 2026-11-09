@@ -45,7 +45,7 @@
         "gn:id":7326179
     },
     "wof:country":"PK",
-    "wof:geomhash":"8329061483846058e21637008f9d923f",
+    "wof:geomhash":"aeb4b12b5b37be3358c2a280041a96dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     65.46094000000001,
     28.58082000000001
 ],
-  "geometry": {"coordinates":[65.46094000000001,28.58082000000001],"type":"Point"}
+  "geometry": {"coordinates":[65.46094,28.58082],"type":"Point"}
 }

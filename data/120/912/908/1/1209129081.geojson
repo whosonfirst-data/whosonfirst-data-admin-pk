@@ -39,7 +39,7 @@
         "wk:page":"Adhwal"
     },
     "wof:country":"PK",
-    "wof:geomhash":"549f224fa9f28b172b9a97e7bab11082",
+    "wof:geomhash":"eff40c914a92e79d5b45c93f84537253",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -62,5 +62,5 @@
     72.92218000000003,
     33.3255
 ],
-  "geometry": {"coordinates":[72.92218000000003,33.3255],"type":"Point"}
+  "geometry": {"coordinates":[72.92218,33.3255],"type":"Point"}
 }

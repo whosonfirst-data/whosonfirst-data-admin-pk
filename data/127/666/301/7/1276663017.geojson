@@ -51,7 +51,7 @@
         "wk:page":"Jhatla"
     },
     "wof:country":"PK",
-    "wof:geomhash":"315772a9ca19976d0ded6aae8d5ccbb2",
+    "wof:geomhash":"53f7348f84f74d157ff599314c1ca896",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     72.38363000000003,
     32.82565
 ],
-  "geometry": {"coordinates":[72.38363000000003,32.82565],"type":"Point"}
+  "geometry": {"coordinates":[72.38363,32.82565],"type":"Point"}
 }

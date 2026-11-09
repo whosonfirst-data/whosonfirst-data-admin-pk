@@ -56,7 +56,7 @@
         "wk:page":"Deona"
     },
     "wof:country":"PK",
-    "wof:geomhash":"a535d645a50d9e49e529dcbe3fc0f153",
+    "wof:geomhash":"f44cdac9a25f3d6f9484f7e2fbb9c7ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     74.00679000000002,
     32.63422
 ],
-  "geometry": {"coordinates":[74.00679000000002,32.63422],"type":"Point"}
+  "geometry": {"coordinates":[74.00679,32.63422],"type":"Point"}
 }

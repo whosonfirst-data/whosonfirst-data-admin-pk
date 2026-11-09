@@ -51,7 +51,7 @@
         "wk:page":"Gulmiri"
     },
     "wof:country":"PK",
-    "wof:geomhash":"be6ed0e4dc5a3aabdd06ea8728d19375",
+    "wof:geomhash":"f241e1eeff257912f468f309fdeb239a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     71.59508000000002,
     32.50517
 ],
-  "geometry": {"coordinates":[71.59508000000002,32.50517],"type":"Point"}
+  "geometry": {"coordinates":[71.59508,32.50517],"type":"Point"}
 }

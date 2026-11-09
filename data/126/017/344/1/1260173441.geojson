@@ -48,7 +48,7 @@
         "wk:page":"Birpani"
     },
     "wof:country":"PK",
-    "wof:geomhash":"942ee0708a238a671248e4ea9e08555b",
+    "wof:geomhash":"585e59bcd7b111e8adfd565a8a9a7614",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     73.75225,
     34.05184000000001
 ],
-  "geometry": {"coordinates":[73.75225,34.05184000000001],"type":"Point"}
+  "geometry": {"coordinates":[73.75225,34.05184],"type":"Point"}
 }

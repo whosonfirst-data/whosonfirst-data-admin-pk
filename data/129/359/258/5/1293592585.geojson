@@ -45,7 +45,7 @@
         "wk:page":"Adam_Khan_Kili"
     },
     "wof:country":"PK",
-    "wof:geomhash":"4d32ad4bf2782f7dc77503adf2df0a4d",
+    "wof:geomhash":"6d552c3c66e42de14539701c4427eeb0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     70.12574000000001,
     32.33147
 ],
-  "geometry": {"coordinates":[70.12574000000001,32.33147],"type":"Point"}
+  "geometry": {"coordinates":[70.12574,32.33147],"type":"Point"}
 }

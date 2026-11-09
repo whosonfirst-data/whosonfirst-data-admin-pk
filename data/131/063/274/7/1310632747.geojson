@@ -47,7 +47,7 @@
         "wk:page":"Youngpur"
     },
     "wof:country":"PK",
-    "wof:geomhash":"be5821fe1a427e253553c1859073e9fa",
+    "wof:geomhash":"e04a526ac1d9394c20cb1c89184eb47a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     73.37574000000002,
     30.9117
 ],
-  "geometry": {"coordinates":[73.37574000000002,30.9117],"type":"Point"}
+  "geometry": {"coordinates":[73.37574,30.9117],"type":"Point"}
 }

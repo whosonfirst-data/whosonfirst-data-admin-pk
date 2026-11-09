@@ -52,7 +52,7 @@
         "wk:page":"Jand_Najjar"
     },
     "wof:country":"PK",
-    "wof:geomhash":"efb92ce8cdbaf9acc8dc5db0c631c058",
+    "wof:geomhash":"d2826d7af262bd6fd261b915b2ec84f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     73.38023000000003,
     33.26241
 ],
-  "geometry": {"coordinates":[73.38023000000003,33.26241],"type":"Point"}
+  "geometry": {"coordinates":[73.38023,33.26241],"type":"Point"}
 }

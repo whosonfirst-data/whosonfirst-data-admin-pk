@@ -51,7 +51,7 @@
         "wk:page":"Hatri"
     },
     "wof:country":"PK",
-    "wof:geomhash":"b343879f9e46028c2c5aa9a137d6884b",
+    "wof:geomhash":"51399a7f37ddb361a84e5a8bf7193b54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     68.40588000000001,
     25.47667
 ],
-  "geometry": {"coordinates":[68.40588000000001,25.47667],"type":"Point"}
+  "geometry": {"coordinates":[68.40588,25.47667],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Rokhri"
     },
     "wof:country":"PK",
-    "wof:geomhash":"1d21e1135adde59932109b7459ca1fea",
+    "wof:geomhash":"316e402c83f13175399bcaa04725f440",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     71.50929000000002,
     32.65902
 ],
-  "geometry": {"coordinates":[71.50929000000002,32.65902],"type":"Point"}
+  "geometry": {"coordinates":[71.50929,32.65902],"type":"Point"}
 }

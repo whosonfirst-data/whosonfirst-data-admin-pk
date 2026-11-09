@@ -42,7 +42,7 @@
         "wk:page":"Khan_Wahan"
     },
     "wof:country":"PK",
-    "wof:geomhash":"16eb2b585d293bafb78f70373dab2dd4",
+    "wof:geomhash":"b56445dfd22fd3db33a0ebea94be7e2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     68.29418000000001,
     27.17725
 ],
-  "geometry": {"coordinates":[68.29418000000001,27.17725],"type":"Point"}
+  "geometry": {"coordinates":[68.29418,27.17725],"type":"Point"}
 }

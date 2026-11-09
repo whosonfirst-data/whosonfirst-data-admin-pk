@@ -55,7 +55,7 @@
         "wk:page":"Mandani"
     },
     "wof:country":"PK",
-    "wof:geomhash":"7a2de43f3806236a296f37d483f86aaa",
+    "wof:geomhash":"0c97e0e8e3fb56931cd92521aae3ea05",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     71.78669000000002,
     34.34502
 ],
-  "geometry": {"coordinates":[71.78669000000002,34.34502],"type":"Point"}
+  "geometry": {"coordinates":[71.78669,34.34502],"type":"Point"}
 }

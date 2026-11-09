@@ -42,7 +42,7 @@
         "wk:page":"Uchhala"
     },
     "wof:country":"PK",
-    "wof:geomhash":"22034801a56a96e399cec1d9a319c90a",
+    "wof:geomhash":"de911f2e45d50633eb6220f47c42c8b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     72.21649000000002,
     32.60459
 ],
-  "geometry": {"coordinates":[72.21649000000002,32.60459],"type":"Point"}
+  "geometry": {"coordinates":[72.21649,32.60459],"type":"Point"}
 }

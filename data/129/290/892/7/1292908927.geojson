@@ -50,7 +50,7 @@
         "wk:page":"Haddowali"
     },
     "wof:country":"PK",
-    "wof:geomhash":"6d42a2066867b0fe25dd8af27383029d",
+    "wof:geomhash":"def82d4d03ec6721ad7ff1575152fbc3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     71.89423000000002,
     33.15974
 ],
-  "geometry": {"coordinates":[71.89423000000002,33.15974],"type":"Point"}
+  "geometry": {"coordinates":[71.89423,33.15974],"type":"Point"}
 }

@@ -50,7 +50,7 @@
         "wk:page":"Chhar"
     },
     "wof:country":"PK",
-    "wof:geomhash":"3fe9ddf7e2b97c2c32535be330039c9e",
+    "wof:geomhash":"f0d2b9f94ea637d3ada00a6891b9cb42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     73.14858000000002,
     34.11458
 ],
-  "geometry": {"coordinates":[73.14858000000002,34.11458],"type":"Point"}
+  "geometry": {"coordinates":[73.14858,34.11458],"type":"Point"}
 }

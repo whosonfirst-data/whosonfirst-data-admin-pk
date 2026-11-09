@@ -51,7 +51,7 @@
         "wk:page":"Hathian"
     },
     "wof:country":"PK",
-    "wof:geomhash":"653a5b68fe113998b9e252c8f0981696",
+    "wof:geomhash":"e35f090d760ec7ea0bd913f902ce6733",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     71.91563000000002,
     34.39341
 ],
-  "geometry": {"coordinates":[71.91563000000002,34.39341],"type":"Point"}
+  "geometry": {"coordinates":[71.91563,34.39341],"type":"Point"}
 }

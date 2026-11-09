@@ -54,7 +54,7 @@
         "wk:page":"Reshian"
     },
     "wof:country":"PK",
-    "wof:geomhash":"1f3fe03de05f60025cb467007812f3dd",
+    "wof:geomhash":"3b5099dae823e7161c1fa9d664081d9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     73.81933000000002,
     34.25874
 ],
-  "geometry": {"coordinates":[73.81933000000002,34.25874],"type":"Point"}
+  "geometry": {"coordinates":[73.81933,34.25874],"type":"Point"}
 }

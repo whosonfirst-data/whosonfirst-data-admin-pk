@@ -54,7 +54,7 @@
         "wk:page":"Sohawa"
     },
     "wof:country":"PK",
-    "wof:geomhash":"43095911f85f3e46d654d44fc61eb8bc",
+    "wof:geomhash":"71b596fcc17ee767d0092271d20c064d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     73.41918000000003,
     33.13314
 ],
-  "geometry": {"coordinates":[73.41918000000003,33.13314],"type":"Point"}
+  "geometry": {"coordinates":[73.41918,33.13314],"type":"Point"}
 }

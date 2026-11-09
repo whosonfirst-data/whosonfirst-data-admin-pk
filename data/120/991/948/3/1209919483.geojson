@@ -52,7 +52,7 @@
         "wk:page":"Jabairpur"
     },
     "wof:country":"PK",
-    "wof:geomhash":"a60039c26fe9842824d8b0f2368ff7d9",
+    "wof:geomhash":"74d96d096ef69f8502764f67e9de53f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     72.88823000000002,
     32.9233
 ],
-  "geometry": {"coordinates":[72.88823000000002,32.9233],"type":"Point"}
+  "geometry": {"coordinates":[72.88823,32.9233],"type":"Point"}
 }

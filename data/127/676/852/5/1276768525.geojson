@@ -48,7 +48,7 @@
         "wk:page":"Barapind"
     },
     "wof:country":"PK",
-    "wof:geomhash":"7040773a2adddc2bc829ee3ea72d18cf",
+    "wof:geomhash":"d815ecd82c43a234e850c9f5b522a915",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     74.98645,
     32.34614000000001
 ],
-  "geometry": {"coordinates":[74.98645,32.34614000000001],"type":"Point"}
+  "geometry": {"coordinates":[74.98645,32.34614],"type":"Point"}
 }

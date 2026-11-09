@@ -53,7 +53,7 @@
         "wk:page":"Kolpur"
     },
     "wof:country":"PK",
-    "wof:geomhash":"878b95568ac13476e5d79def01c2c254",
+    "wof:geomhash":"d45cf10b0574d823bf6f0e91ebbd4188",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     67.13313000000001,
     29.90321
 ],
-  "geometry": {"coordinates":[67.13313000000001,29.90321],"type":"Point"}
+  "geometry": {"coordinates":[67.13313,29.90321],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Langrial"
     },
     "wof:country":"PK",
-    "wof:geomhash":"2678618ae9f1b08cd3cf9354c2904115",
+    "wof:geomhash":"5c0629e27152bd0bc04898679a4a7293",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     73.12498000000002,
     33.92572
 ],
-  "geometry": {"coordinates":[73.12498000000002,33.92572],"type":"Point"}
+  "geometry": {"coordinates":[73.12498,33.92572],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Behlani"
     },
     "wof:country":"PK",
-    "wof:geomhash":"370c4c65314ca71640493ca96b03c242",
+    "wof:geomhash":"73dc50745ecd0577b37b4404acd16a8e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     68.34158000000001,
     27.09838
 ],
-  "geometry": {"coordinates":[68.34158000000001,27.09838],"type":"Point"}
+  "geometry": {"coordinates":[68.34158,27.09838],"type":"Point"}
 }

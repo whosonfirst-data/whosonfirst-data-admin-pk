@@ -55,7 +55,7 @@
         "wk:page":"Ghungrila"
     },
     "wof:country":"PK",
-    "wof:geomhash":"20917dc0c3c42d117f99a2d23794f6c6",
+    "wof:geomhash":"311acfd20a91d0a416771f32c76cbb15",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     73.24649000000002,
     33.30109
 ],
-  "geometry": {"coordinates":[73.24649000000002,33.30109],"type":"Point"}
+  "geometry": {"coordinates":[73.24649,33.30109],"type":"Point"}
 }

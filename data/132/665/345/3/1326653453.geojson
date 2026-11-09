@@ -46,7 +46,7 @@
         "wk:page":"Rikhi"
     },
     "wof:country":"PK",
-    "wof:geomhash":"c9f33b55c91b83a8d1c66f6471b45c2b",
+    "wof:geomhash":"c61abb8d9bfce77c0cacdcddb450fad1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     71.78678000000002,
     32.70228
 ],
-  "geometry": {"coordinates":[71.78678000000002,32.70228],"type":"Point"}
+  "geometry": {"coordinates":[71.78678,32.70228],"type":"Point"}
 }

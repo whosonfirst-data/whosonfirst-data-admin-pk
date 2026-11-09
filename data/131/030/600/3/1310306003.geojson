@@ -54,7 +54,7 @@
         "wk:page":"Charguli"
     },
     "wof:country":"PK",
-    "wof:geomhash":"82ac71b87371ced7d2110ffe6b7f00d9",
+    "wof:geomhash":"cda727ba0edfc9c82d64fbb732489eac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     72.23279000000002,
     34.32145999999999
 ],
-  "geometry": {"coordinates":[72.23279000000002,34.32145999999999],"type":"Point"}
+  "geometry": {"coordinates":[72.23279,34.32146],"type":"Point"}
 }

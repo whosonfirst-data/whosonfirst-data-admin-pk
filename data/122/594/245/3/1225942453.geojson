@@ -45,7 +45,7 @@
         "wk:page":"Husri"
     },
     "wof:country":"PK",
-    "wof:geomhash":"8a38893ab65263d29a264fa4dd3a1c53",
+    "wof:geomhash":"d5980775341c92fa3f531577d107fe32",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     68.42473000000001,
     25.31363
 ],
-  "geometry": {"coordinates":[68.42473000000001,25.31363],"type":"Point"}
+  "geometry": {"coordinates":[68.42473,25.31363],"type":"Point"}
 }

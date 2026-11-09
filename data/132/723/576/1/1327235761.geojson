@@ -48,7 +48,7 @@
         "wk:page":"Petaro"
     },
     "wof:country":"PK",
-    "wof:geomhash":"d11f4323a0caaf87056ccc34d0eaf394",
+    "wof:geomhash":"867679bab3e51a9988fee30beb5ce61d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     68.34357,
     25.53352000000001
 ],
-  "geometry": {"coordinates":[68.34357,25.53352000000001],"type":"Point"}
+  "geometry": {"coordinates":[68.34357,25.53352],"type":"Point"}
 }

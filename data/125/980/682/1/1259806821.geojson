@@ -57,7 +57,7 @@
         "wk:page":"Aminpur"
     },
     "wof:country":"PK",
-    "wof:geomhash":"1b9a8ea2a1a1218c5f2bab0619df949c",
+    "wof:geomhash":"ca2887ade9691c9193e254a20f1a7094",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     72.86178000000002,
     31.49029
 ],
-  "geometry": {"coordinates":[72.86178000000002,31.49029],"type":"Point"}
+  "geometry": {"coordinates":[72.86178,31.49029],"type":"Point"}
 }

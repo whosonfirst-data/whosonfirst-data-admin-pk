@@ -50,7 +50,7 @@
         "wk:page":"Askole"
     },
     "wof:country":"PK",
-    "wof:geomhash":"8ba7432beb2cf4644b7ab3ee11681ff2",
+    "wof:geomhash":"325a38bd0f84eb55ea249906d536385c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     75.85458,
     35.69224000000001
 ],
-  "geometry": {"coordinates":[75.85458,35.69224000000001],"type":"Point"}
+  "geometry": {"coordinates":[75.85458,35.69224],"type":"Point"}
 }

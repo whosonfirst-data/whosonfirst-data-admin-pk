@@ -52,7 +52,7 @@
         "wk:page":"Zandani"
     },
     "wof:country":"PK",
-    "wof:geomhash":"b8423030e57bafe20f6fddbb65450f99",
+    "wof:geomhash":"52e2d5c9349b56224d2a79e78a237735",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     70.67678000000002,
     31.81366
 ],
-  "geometry": {"coordinates":[70.67678000000002,31.81366],"type":"Point"}
+  "geometry": {"coordinates":[70.67678,31.81366],"type":"Point"}
 }
