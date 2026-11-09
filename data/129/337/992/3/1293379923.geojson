@@ -33,8 +33,7 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675741,
-        1108692213
+        85675741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +45,6 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
-            "county_id":1108692213,
             "locality_id":1293379923,
             "region_id":85675741
         }
@@ -54,7 +52,7 @@
     "wof:id":1293379923,
     "wof:lastmodified":1566585151,
     "wof:name":"Chhani Misterian",
-    "wof:parent_id":1108692213,
+    "wof:parent_id":85675741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

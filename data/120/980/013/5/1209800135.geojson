@@ -138,8 +138,7 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675741,
-        1108692213
+        85675741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -151,7 +150,6 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
-            "county_id":1108692213,
             "locality_id":1209800135,
             "region_id":85675741
         }
@@ -159,7 +157,7 @@
     "wof:id":1209800135,
     "wof:lastmodified":1566589109,
     "wof:name":"Mari",
-    "wof:parent_id":1108692213,
+    "wof:parent_id":85675741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

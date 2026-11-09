@@ -35,7 +35,7 @@
         1159339495,
         102191569,
         85632659,
-        1108695693,
+        1796797837,
         85632469
     ],
     "wof:breaches":[],
@@ -48,7 +48,7 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
-            "county_id":1108695693,
+            "county_id":1796797837,
             "disputed_id":1159339495,
             "locality_id":1260203591,
             "region_id":85675745
@@ -56,7 +56,7 @@
         {
             "continent_id":102191569,
             "country_id":85632469,
-            "county_id":1108695693,
+            "county_id":1796797837,
             "disputed_id":1159339495,
             "locality_id":1260203591,
             "region_id":85675745
@@ -65,7 +65,7 @@
     "wof:id":1260203591,
     "wof:lastmodified":1566589910,
     "wof:name":"Tsamskangchan",
-    "wof:parent_id":1108695693,
+    "wof:parent_id":1796797837,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
