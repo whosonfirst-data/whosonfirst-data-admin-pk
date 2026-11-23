@@ -1,0 +1,60 @@
+{
+  "id": 2064659487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:bbox": "70.41299,28.33795,70.41299,28.33795",
+    "geom:latitude": 28.33795,
+    "geom:longitude": 70.41299,
+    "iso:country": "PK",
+    "lbl:latitude": 28.33795,
+    "lbl:longitude": 70.41299,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "name:eng_x_preferred": [
+      "Lodhra Dairy Farms Chak 55p"
+    ],
+    "src:geom": "gn",
+    "src:lbl_centroid": "gn",
+    "wof:belongsto": [
+      102191569,
+      85632659
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 13697270
+    },
+    "wof:country": "PK",
+    "wof:geomhash": "",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632659
+      }
+    ],
+    "wof:id": 2064659487,
+    "wof:lastmodified": 1732391100,
+    "wof:name": "Lodhra Dairy Farms Chak 55p",
+    "wof:parent_id": -1,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-pk",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [
+    70.41299,
+    28.33795,
+    70.41299,
+    28.33795
+  ],
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      70.41299,
+      28.33795
+    ]
+  }
+}
